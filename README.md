@@ -1,7 +1,7 @@
 # A GUI for checking website status.
 ## Developed by Md. Almas Ali
 
-![Web Status](./docs/static/img1.png "Web Status")
+![Web Status](https://raw.githubusercontent.com/Almas-Ali/Web_Status/master/docs/static/img1.PNG "Web Status")
 
 To use this you need to run the `app.py` in `src/web_status/app.py`
 
